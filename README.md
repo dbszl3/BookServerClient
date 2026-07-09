@@ -58,6 +58,10 @@ BookRentalServer
 └── Makefile           # Build 및 Reset
 ```
 
+## 🎬 Demo
+실행 화면과 동작 과정은 아래 노션 페이지에서 확인할 수 있습니다.
+📖 **[실행 동작 예시 보러가기](https://numerous-variraptor-6a1.notion.site/BookServerClient-39886961e22280b38edbed6b726b1a6d?source=copy_link)**
+
 ## 🛠️ 기술 스택
 - C
 - TCP Socket Programming
